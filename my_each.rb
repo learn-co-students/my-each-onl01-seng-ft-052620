@@ -9,6 +9,3 @@ def my_each (array)
   array 
 end
 
-# my_each(collection) do |i|
-#  put\s i
-# end
